@@ -20,6 +20,7 @@ pip3.6 install webscreenshots
 pip3.6 install selenium
 pip3.6 install Pillow
 pip3.6 install gTTS
+pip3.6 install pytube3
 pip3.6 install whois
 pip3.6 install pyAesCrypt
 pip3.6 install traceroute

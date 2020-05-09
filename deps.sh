@@ -1,4 +1,4 @@
-#Obviously this only runs on CentOS or OS supporting yum installs
+#Centos7
 yum -y update
 yum -y install yum-utils
 yum install -y epel-release
